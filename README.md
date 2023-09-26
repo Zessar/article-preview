@@ -16,8 +16,8 @@ Los usuarios deberían poder:
 
 ### Links
 
-- Solution URL: [Añado la URL de la solucion](https://github.com/Zessar/AcordeonCesar)
-- Live Site URL: [Add live site URL here](https://zessar.github.io/AcordeonCesar/)
+- Solution URL: [Añado la URL de la solucion](https://github.com/Zessar/article-preview)
+- Live Site URL: [Add live site URL here](https://zessar.github.io/article-preview/)
 
 ## Mi proceso
 
